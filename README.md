@@ -2,7 +2,7 @@
 
 A modern, responsive stock price dashboard built with React, Tailwind CSS, and the Alpha Vantage API.
 
-![Stock Dashboard Screenshot](https://via.placeholder.com/800x450?text=Stock+Dashboard+Screenshot)
+
 
 ## 🚀 Features
 
